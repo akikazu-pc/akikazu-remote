@@ -4,7 +4,7 @@ Windows 10/11 x64 上验证 **不经过 TURN 中继** 的加密 P2P DataChannel 
 
 这是 Phase 0 连通性测试程序，不是远程桌面成品。当前使用**手动交换 SDP 令牌**，尚未实现自动信令、设备 ID、连接密码、剪贴板和屏幕控制。
 
-> 仓库：<https://github.com/AkiCust-PC/akikazu-remote>
+> 仓库：<https://github.com/akikazu-pc/akikazu-remote>
 >
 > 状态：手动信令原型可运行；自动信令 / 认证 / GUI 尚未实现。
 
